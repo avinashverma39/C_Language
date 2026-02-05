@@ -7,6 +7,4 @@ int main()
     average = (num1 + num2 + num3) / 3;
     printf("The average of %.2f, %.2f and %.2f is %.2f", num1, num2, num3, average);
     return 0;
-
-    
 }
