@@ -1,3 +1,4 @@
 {
-  "debug.terminal.clearBeforeReusing": true
+  "debug.terminal.clearBeforeReusing": true,
+  "git.ignoreLimitWarning": true
 }
