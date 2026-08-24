@@ -4,6 +4,7 @@
 // ***
 // using nested loops
 // For n trms
+
 #include <stdio.h>
 int main()
 {

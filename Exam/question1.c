@@ -8,8 +8,10 @@ int main()
         {
             s = s + n;
         }
+    
         n++;
     }
     printf("value  = %d  ", s);
+
     return 0;
 }
